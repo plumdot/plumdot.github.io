@@ -6,9 +6,8 @@
 </description>
     <link>http://ralphplumley.com/</link>
     <atom:link href="http://ralphplumley.com/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Wed, 17 Jun 2015 22:30:08 -0400</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2015 22:30:08 -0400</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2015 22:37:39 -0400</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2015 22:37:39 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -69,20 +68,6 @@ Answers are up on a &lt;a href=&quot;https://github.com/plumdot/CoderByte&quot;&
 &lt;p&gt;&lt;b&gt;6/14/15&lt;/b&gt; - finished with 28/30 Easy ones. While analyzing other user’s methods, I noticed how ‘elementary’ my methods are (using arrays to temporary hold my answers instead of just returning the answer, lack of functional javascript, etc.). I’m looking forward to seeing my progress when I attempt the same questions in several months.&lt;/p&gt;
 
 </description>
-=======
-    <pubDate>Sun, 14 Jun 2015 14:32:01 -0400</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2015 14:32:01 -0400</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>CoderByte</title>
-        <description>&lt;p&gt;I’ll update my progress with &lt;a href=&quot;http://coderbyte.com/CodingArea/Profile/?user=plumdot&quot;&gt;CoderByte&lt;/a&gt; in this post.
-Answers are up on a &lt;a href=&quot;https://github.com/plumdot/CoderByte&quot;&gt;github repo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;6/14/15&lt;/b&gt; - finished with 28/30 Easy ones. While analyzing other user’s methods, I noticed how ‘elementary’ my methods are (using arrays to temporary hold my answers instead of just returning the answer, lack of functional javascript, etc.). I’m looking forward to seeing my progress when I attempt the same questions in several months.&lt;/p&gt;
-
-</description>
->>>>>>> origin/master
         <pubDate>Sun, 14 Jun 2015 20:00:00 -0400</pubDate>
         <link>http://ralphplumley.com/software/2015/06/14/coderbyte/</link>
         <guid isPermaLink="true">http://ralphplumley.com/software/2015/06/14/coderbyte/</guid>
