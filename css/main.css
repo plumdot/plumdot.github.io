@@ -148,6 +148,9 @@ pre {
 hr {
   margin-bottom: 1em; }
 
+a {
+  text-decoration: underline; }
+
 /**
  * Site header
  */

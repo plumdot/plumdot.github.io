@@ -6,13 +6,55 @@
 </description>
     <link>http://ralphplumley.com/</link>
     <atom:link href="http://ralphplumley.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jun 2015 22:37:39 -0400</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2015 22:37:39 -0400</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2015 22:34:42 -0400</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2015 22:34:42 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
+        <title>MOOC List</title>
+        <description>&lt;p&gt;There’s a lot of MOOC classes I’d like to go through. I’ll update this post as I progress through each one. This make take several years.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Currently going through:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.udacity.com/course/object-oriented-javascript--ud015&quot;&gt;Udacity’s OOP JS&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.udacity.com/course/how-to-use-git-and-github--ud775&quot;&gt;Udacity’s Git&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Queued up:&lt;/h3&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Udacity - Javascript Testing&lt;/li&gt;
+	&lt;li&gt;Udacity - Intro to jQuery.&lt;/li&gt;
+	&lt;li&gt;Udacity - Intro to Ajax.&lt;/li&gt;
+	&lt;li&gt;Udacity - Web Development.&lt;/li&gt;
+	&lt;li&gt;Udacity - Javascript Design Patterns.&lt;/li&gt;
+	&lt;li&gt;Udacity - Full Stack Foundations.&lt;/li&gt;
+	&lt;li&gt;Udacity - OAuth &amp;amp; Authorization.&lt;/li&gt;
+	&lt;li&gt;Udacity Nano Degree - Front End.&lt;/li&gt;
+	&lt;li&gt;Udacity - Intro to Algo.&lt;/li&gt;
+	&lt;li&gt;Coursera - Algo 1.&lt;/li&gt;
+	&lt;li&gt;Udacity Nano Degree - Full Stack.&lt;/li&gt;
+	&lt;li&gt;Coursera - Algo 2.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Completed:&lt;br /&gt;
+Udacity - How to use GIT&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 Jun 2015 20:00:00 -0400</pubDate>
+        <link>http://ralphplumley.com/software/2015/06/18/mooc-list/</link>
+        <guid isPermaLink="true">http://ralphplumley.com/software/2015/06/18/mooc-list/</guid>
+        
+        
+        <category>software</category>
+        
+      </item>
+    
+      <item>
         <title>Reading List</title>
-        <description>&lt;p&gt;This my reading list for programming. I’ll update it with notes as I read them through my career.&lt;/p&gt;
+        <description>&lt;p&gt;This my reading list for programming. I’ll update it with notes as I read them through my career. &lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -25,7 +67,7 @@
 	&lt;li&gt;Mythical Man Month&lt;/li&gt;
 	&lt;li&gt;Code: The Hidden Language of Computer Hardware and Software&lt;/li&gt;
 	&lt;li&gt;Introduction to Algorithms&lt;/li&gt;
-	&lt;li&gt;tructure and Interpretation of Computer Programs&lt;/li&gt;
+	&lt;li&gt;Structure and Interpretation of Computer Programs&lt;/li&gt;
 	&lt;li&gt;Pragmatic Programmer&lt;/li&gt;
 	&lt;li&gt;Clean Code: A Handbook of Agile Software Craftsmanship&lt;/li&gt;
 	&lt;li&gt;Design Patterns: Elements of Reusable Object-Oriented Software&lt;/li&gt;
@@ -43,27 +85,20 @@
 &lt;a href=&quot;http://www.catonmat.net/blog/top-100-books-part-two/&quot;&gt;Peteris Krumins’ top 100 books part 2.&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.catonmat.net/blog/top-100-books-part-three/&quot;&gt;Peteris Krumins’ top 100 books part 3.&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;I’ll update my progress with C in this post.
-Answers are up on a [github repo][Github/Coderbyte].&lt;/p&gt;
-
 </description>
         <pubDate>Mon, 15 Jun 2015 21:00:00 -0400</pubDate>
-        <link>http://ralphplumley.com/software/reading/practice/2015/06/15/reading-list/</link>
-        <guid isPermaLink="true">http://ralphplumley.com/software/reading/practice/2015/06/15/reading-list/</guid>
+        <link>http://ralphplumley.com/software/2015/06/15/reading-list/</link>
+        <guid isPermaLink="true">http://ralphplumley.com/software/2015/06/15/reading-list/</guid>
         
         
         <category>software</category>
-        
-        <category>reading</category>
-        
-        <category>practice</category>
         
       </item>
     
       <item>
         <title>CoderByte</title>
         <description>&lt;p&gt;I’ll update my progress with &lt;a href=&quot;http://coderbyte.com/CodingArea/Profile/?user=plumdot&quot;&gt;CoderByte&lt;/a&gt; in this post.
-Answers are up on a &lt;a href=&quot;https://github.com/plumdot/CoderByte&quot;&gt;github repo&lt;/a&gt;.&lt;/p&gt;
+Answers are up on &lt;a href=&quot;https://github.com/plumdot/CoderByte&quot;&gt;this github repo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;6/14/15&lt;/b&gt; - finished with 28/30 Easy ones. While analyzing other user’s methods, I noticed how ‘elementary’ my methods are (using arrays to temporary hold my answers instead of just returning the answer, lack of functional javascript, etc.). I’m looking forward to seeing my progress when I attempt the same questions in several months.&lt;/p&gt;
 
