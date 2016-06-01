@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "MOOC List"
+date:   2015-06-19 00:00:00
+categories: software 
+---
+
+There's a lot of MOOC classes I'd like to go through. I'll update this post as I progress through each one. This make take several years.
+
+<hr>
+
+<h3>Currently going through:</h3>
+[Udacity's Git][UdacityGIT]<br>
+[Udacity's Developing Android][UdacityAndroid2]<br>
+
+<h3>Queued up:</h3>
+
+<ul>
+	<li>Udacity - OOP JS</li>
+	<li>Udacity - Javascript Testing</li>
+	<li>Udacity - Intro to jQuery.</li>
+	<li>Udacity - Intro to Ajax.</li>
+	<li>Udacity - Web Development.</li>
+	<li>Udacity - Javascript Design Patterns.</li>
+	<li>Udacity - Full Stack Foundations.</li>
+	<li>Udacity - OAuth & Authorization.</li>
+	<li>Udacity Nano Degree - Front End.</li>
+	<li>Udacity - Intro to Algo.</li>
+	<li>Coursera - Algo 1.</li>
+	<li>Udacity Nano Degree - Full Stack.</li>
+	<li>Coursera - Algo 2.</li>
+</ul>
+
+<hr>
+
+Completed:<br>
+Udacity - Intro to Android - June 2015
+
+
+<b>Edit 6/26/12: </b> as much as I'd love to learn all these topics, it would behoove me to focus. Decided to move web related courses down to focus on Android dev.
+
+[UdacityOOP]:   https://www.udacity.com/course/object-oriented-javascript--ud015
+[UdacityGIT]:   https://www.udacity.com/course/how-to-use-git-and-github--ud775
+[UdacityAndroid2]:   https://www.udacity.com/course/developing-android-apps--ud853

@@ -1,0 +1,20 @@
+# Site settings
+title: PlumDot
+subTitle: Software Design and UX
+email: ralph.plumley at google's email
+description: > # this means to ignore newlines until "baseurl:"
+  Probably posts about software development. Amongst other things.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ralphplumley.com" # the base hostname & protocol for your site
+twitter_username: ralphplumley
+github_username:  plumdot
+instagram_username: ralphplumley
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Sytax highlighter
+highlighter: pygments
+
+encoding: utf-8

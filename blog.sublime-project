@@ -1,0 +1,35 @@
+{
+	"folders":
+	[
+		{
+			"path": "about"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "software"
+		},
+		{
+			"path": "software/2015"
+		},
+		{
+			"path": "_includes"
+		},
+		{
+			"path": "_layouts"
+		},
+		{
+			"path": "_posts"
+		},
+		{
+			"path": "_sass"
+		},
+		{
+			"path": "_site"
+		}
+	]
+}
