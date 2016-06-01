@@ -15,6 +15,6 @@ markdown: kramdown
 permalink: pretty
 
 # Sytax highlighter
-highlighter: pygments
+highlighter: rouge
 
 encoding: utf-8
