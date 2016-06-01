@@ -2,9 +2,6 @@
 	"folders":
 	[
 		{
-			"path": "about"
-		},
-		{
 			"path": "img"
 		},
 		{
@@ -12,9 +9,6 @@
 		},
 		{
 			"path": "software"
-		},
-		{
-			"path": "software/2015"
 		},
 		{
 			"path": "_includes"
