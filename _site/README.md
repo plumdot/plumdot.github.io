@@ -1,2 +1,2 @@
 # plumdot.github.io
-My web journal, powered by Jekyll
+My web log, powered by Jekyll
