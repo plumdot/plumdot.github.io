@@ -5,10 +5,13 @@ permalink: /about/
 ---
 
 Hello, my name is Ralph. <br> 
-I've been programming since 2007, and continue to get hooked a bit more every day.
+I'm a software designer currently working for General Motors in Detroit, MI.<br>  
+Prior to that, I worked as a web designer for Grey NYC.
 
-Currently, I design and architect mobile and web apps for General Motors in Detroit, MI.<br>  
-Prior to that, I worked as a web designer for Grey NYC. 
+I started web design and front-end development during my time in undergrad.
+I started programing in 2006 with ActionScript to get more interactivity in my websites.
+Lately, I like to work on Android apps along with front-end stuff.
+I continue to get hooked with programming a bit more every day. 
 
 I graduated from the College for Creative Studies, an art and design school located in Detroit.<br>
 My concentration was animation and digital media.
