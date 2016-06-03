@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hello, my name is Ralph. <br> 
-I'm a software designer currently working for General Motors in Detroit, MI.<br>  
+I'm a software designer currently working for General Motors in Detroit, MI.
 Prior to that, I worked as a web designer for Grey NYC.
 
 I started web design and front-end development during my time in undergrad.
