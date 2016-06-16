@@ -5,17 +5,28 @@ date:   2015-06-16 01:00:00
 categories: software  
 ---
 
-This my reading list for programming. I'll update it with notes as I read them through my career. 
+This my reading list for software design. I'll update it with notes as I read them through my career. 
 
 <hr>
 
-<h3>Currently going through:</h3>
-[Code Complete: A Practical Handbook of Software Construction][CodeComplete]<br>
+[CodeComplete Notes]: /software/2015/06/15/code-complete-notes/
 
-<h3>To read:</h3>
+<h3>UX</h3>
+[Don't Make Me Think][DontMakeMeThink] <br>
+[Rocket Surger Made Easy][RocketSurgery] 
 
+[DontMakeMeThink]: https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758
+[RocketSurgery]: https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292
+
+<h3>Software Craftsmanship</h3>
+
+[Code Complete: A Practical Handbook of Software Construction][CodeComplete] - 
+[Notes][CodeComplete Notes]
+
+<h3>Still on the bookshelf</h3>
 <ul>
 	<li>Mythical Man Month</li>
+	<li>The Inmates Are Running the Asylum</li>
 	<li>Code: The Hidden Language of Computer Hardware and Software</li>
 	<li>Introduction to Algorithms</li>
 	<li>Structure and Interpretation of Computer Programs</li>
