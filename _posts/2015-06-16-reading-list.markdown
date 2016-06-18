@@ -9,11 +9,12 @@ This my reading list for software design. I'll update it with notes as I read th
 
 <hr>
 
-[CodeComplete Notes]: /software/2015/06/15/code-complete-notes/
-
 <h3>UX</h3>
 [Don't Make Me Think][DontMakeMeThink] <br>
-[Rocket Surger Made Easy][RocketSurgery] 
+[Rocket Surger Made Easy][RocketSurgery] - 
+[Notes][Rocket Notes]
+
+[Rocket Notes]: /software/2015/03/15/rocket-surgery-notes/
 
 [DontMakeMeThink]: https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758
 [RocketSurgery]: https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292
@@ -22,6 +23,8 @@ This my reading list for software design. I'll update it with notes as I read th
 
 [Code Complete: A Practical Handbook of Software Construction][CodeComplete] - 
 [Notes][CodeComplete Notes]
+
+[CodeComplete Notes]: /software/2015/06/15/code-complete-notes/
 
 <h3>Still on the bookshelf</h3>
 <ul>

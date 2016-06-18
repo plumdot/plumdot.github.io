@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Lean UX - Notes"
+date:   2015-10-18 01:00:00
+categories: software  
+---
+
+Lean UX: Applying Lean Principles to Improve User Experience
+
+Takeaways: 
+Shared vision empowers independent work. Be transparent with all departments. 
+Make progress to deal with daunting projects. Small success add up so keep ‘nudging’ the product in a ‘more right’ direction.
+
+Section 1: Intro
+				
+1. Individuals and interactions over processes and tools. This is a realization I’ve come across - it’s best to involve all departments initially. Doing so will help the process down the line.
+					
+2. Working software over comprehensive documentation. Easy to say. Not sure if viable in reality. Maybe it’s being at a big company, but we’ve always had to deliver fully fleshed out documents before any development started (which, I do believe is inefficient).
+					
+3. Customer collaboration over contract negotiation. As stated earlier, having all groups participate will give everyone a shared understanding of the customer pain points. That shared understanding should lessen dependency on heavy documentation, as everyone on the team has already participated in making the decisions that were used to require written communication and defense.
+					
+4. Responding to change over following a plan. Iterate and constantly nudge the product in a “more right” direction. Teams, and large companies especially, get bogged down on a big launch. Just like any project, task, or habit, all the small steps help get things going. Break down the big project, and get started. 
+
+Principles:
+Cross-functional Teams.
+Small, dedicated, colocated.
+Progress = Outcome. Not output.
+Problem focused teams.
+Removing waste.
+Small batch size.
+Continuous discovery.
+GOOB: The new user-centricity.
+Shared understanding.
+Anti-patterns: Rockstars, Gurus, Ninjas.
+Externalize your work.
+Making over analysis.
+Learning over growth.
+Permission to fail.
+Getting out of the deliverables business.
+
+Section 2: Process
+Vision, framing, and outcomes: The goal is the outcome, not the artifacts produced.
+Collaborative Design: Include all departments. They too are responsible for style guides and other live documents.
+MVPs and experiments: Test the smallest thing you can make to verify your hypothesis.
+Feedback and research: Create a shared understanding within organizations. Monitor your customer experience. 
+
+Section 3: Making It Work
+Integrating Lean UX and Agile: Design is a team sport. Invite everyone to participate. 
+Making organizational shifts: Suggestions on - Outcomes, roles, new skills, cross-functional teams, small teams, workspace, no more heroes, speed first - aesthetics second, value problem solving, UX debt, agencies are in the deliverables business, working with third party vendors, documentation standards. 
+
+
+

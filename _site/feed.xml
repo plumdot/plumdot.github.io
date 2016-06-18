@@ -6,8 +6,8 @@
 </description>
     <link>http://ralphplumley.com/</link>
     <atom:link href="http://ralphplumley.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Jun 2016 11:20:37 -0400</pubDate>
-    <lastBuildDate>Thu, 16 Jun 2016 11:20:37 -0400</lastBuildDate>
+    <pubDate>Sat, 18 Jun 2016 11:13:18 -0400</pubDate>
+    <lastBuildDate>Sat, 18 Jun 2016 11:13:18 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -40,16 +40,78 @@
       </item>
     
       <item>
+        <title>Lean UX - Notes</title>
+        <description>&lt;p&gt;Lean UX: Applying Lean Principles to Improve User Experience&lt;/p&gt;
+
+&lt;p&gt;Takeaways: 
+Shared vision empowers independent work. Be transparent with all departments. 
+Make progress to deal with daunting projects. Small success add up so keep ‘nudging’ the product in a ‘more right’ direction.&lt;/p&gt;
+
+&lt;p&gt;Section 1: Intro&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Individuals and interactions over processes and tools. This is a realization I’ve come across - it’s best to involve all departments initially. Doing so will help the process down the line.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Working software over comprehensive documentation. Easy to say. Not sure if viable in reality. Maybe it’s being at a big company, but we’ve always had to deliver fully fleshed out documents before any development started (which, I do believe is inefficient).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Customer collaboration over contract negotiation. As stated earlier, having all groups participate will give everyone a shared understanding of the customer pain points. That shared understanding should lessen dependency on heavy documentation, as everyone on the team has already participated in making the decisions that were used to require written communication and defense.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Responding to change over following a plan. Iterate and constantly nudge the product in a “more right” direction. Teams, and large companies especially, get bogged down on a big launch. Just like any project, task, or habit, all the small steps help get things going. Break down the big project, and get started.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Principles:
+Cross-functional Teams.
+Small, dedicated, colocated.
+Progress = Outcome. Not output.
+Problem focused teams.
+Removing waste.
+Small batch size.
+Continuous discovery.
+GOOB: The new user-centricity.
+Shared understanding.
+Anti-patterns: Rockstars, Gurus, Ninjas.
+Externalize your work.
+Making over analysis.
+Learning over growth.
+Permission to fail.
+Getting out of the deliverables business.&lt;/p&gt;
+
+&lt;p&gt;Section 2: Process
+Vision, framing, and outcomes: The goal is the outcome, not the artifacts produced.
+Collaborative Design: Include all departments. They too are responsible for style guides and other live documents.
+MVPs and experiments: Test the smallest thing you can make to verify your hypothesis.
+Feedback and research: Create a shared understanding within organizations. Monitor your customer experience.&lt;/p&gt;
+
+&lt;p&gt;Section 3: Making It Work
+Integrating Lean UX and Agile: Design is a team sport. Invite everyone to participate. 
+Making organizational shifts: Suggestions on - Outcomes, roles, new skills, cross-functional teams, small teams, workspace, no more heroes, speed first - aesthetics second, value problem solving, UX debt, agencies are in the deliverables business, working with third party vendors, documentation standards.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 17 Oct 2015 21:00:00 -0400</pubDate>
+        <link>http://ralphplumley.com/software/2015/10/17/lean-ux/</link>
+        <guid isPermaLink="true">http://ralphplumley.com/software/2015/10/17/lean-ux/</guid>
+        
+        
+        <category>software</category>
+        
+      </item>
+    
+      <item>
         <title>MOOC List</title>
         <description>&lt;p&gt;There’s a lot of MOOC classes I’d like to go through. I’ll update this post as I progress through each one. This make take several years.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h3&gt;Currently going through:&lt;/h3&gt;
+&lt;h3&gt;Finished&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.udacity.com/course/how-to-use-git-and-github--ud775&quot;&gt;Udacity’s Git&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://www.udacity.com/course/developing-android-apps--ud853&quot;&gt;Udacity’s Developing Android&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3&gt;Queued up:&lt;/h3&gt;
+&lt;h3&gt;Interested in:&lt;/h3&gt;
 
 &lt;ul&gt;
 	&lt;li&gt;Udacity - OOP JS&lt;/li&gt;
@@ -62,8 +124,8 @@
 	&lt;li&gt;Udacity - OAuth &amp;amp; Authorization.&lt;/li&gt;
 	&lt;li&gt;Udacity Nano Degree - Front End.&lt;/li&gt;
 	&lt;li&gt;Udacity - Intro to Algo.&lt;/li&gt;
-	&lt;li&gt;Coursera - Algo 1.&lt;/li&gt;
 	&lt;li&gt;Udacity Nano Degree - Full Stack.&lt;/li&gt;
+	&lt;li&gt;Coursera - Algo 1.&lt;/li&gt;
 	&lt;li&gt;Coursera - Algo 2.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -72,7 +134,7 @@
 &lt;p&gt;Completed:&lt;br /&gt;
 Udacity - Intro to Android - June 2015&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Edit 6/26/12: &lt;/b&gt; as much as I’d love to learn all these topics, it would behoove me to focus. Decided to move web related courses down to focus on Android dev.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Edit 6/26/15: &lt;/b&gt; as much as I’d love to learn all these topics, it would behoove me to focus. Decided to move web related courses down to focus on Android dev.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 18 Jun 2015 20:00:00 -0400</pubDate>
@@ -92,7 +154,8 @@ Udacity - Intro to Android - June 2015&lt;/p&gt;
 
 &lt;h3&gt;UX&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758&quot;&gt;Don’t Make Me Think&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&quot;https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292&quot;&gt;Rocket Surger Made Easy&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292&quot;&gt;Rocket Surger Made Easy&lt;/a&gt; - 
+&lt;a href=&quot;/software/2015/03/15/rocket-surgery-notes/&quot;&gt;Notes&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Software Craftsmanship&lt;/h3&gt;
 
@@ -160,6 +223,71 @@ Answers are up on &lt;a href=&quot;https://github.com/plumdot/CoderByte&quot;&gt
         <pubDate>Sun, 14 Jun 2015 20:00:00 -0400</pubDate>
         <link>http://ralphplumley.com/software/2015/06/14/coderbyte/</link>
         <guid isPermaLink="true">http://ralphplumley.com/software/2015/06/14/coderbyte/</guid>
+        
+        
+        <category>software</category>
+        
+      </item>
+    
+      <item>
+        <title>Rocket Surgery Made Easy - Notes</title>
+        <description>&lt;p&gt;Major takeaways:
+Chapters 11, 13, seem to be the most applicable. &lt;br /&gt;
+A lot of engineering and design meetings get lost in deciding what to do. Chapters 11 and 13 address this.&lt;/p&gt;
+
+&lt;p&gt;Ch 1 Notes:&lt;br /&gt;
+-Quantitative test = interest in proving something. e.g. Is this latest version better than the previous one?&lt;br /&gt;
+-Qualitative = DIY tests to improve what you’re building. Enables insights. Informal. Unscientific. Just observing works.
+	-All sites have problems.
+	-Most serious problems tend to be easy to find.
+	-Watching users informs your design intelligence.&lt;/p&gt;
+
+&lt;p&gt;Ch 3 Notes:&lt;br /&gt;
+-Test once a month.&lt;br /&gt;
+-Big Honkin’ Test (near completion of project) vs DIY (continually).&lt;/p&gt;
+
+&lt;p&gt;Ch 4 Notes:&lt;br /&gt;
+-Are you working on the site? Start testing now. Can / should test all - napkin sketches, pencil sketches, wires, prototypes.&lt;/p&gt;
+
+&lt;p&gt;Ch 5 Notes: &lt;br /&gt;
+-Recruit loosely and grade on a curve. Try to find users who reflect your audience, but don’t get hung up about it.&lt;br /&gt;
+-Uncover as many problems as you can fix.&lt;br /&gt;
+-Three seems to work well:&lt;br /&gt;
+	-Likely to encounter many of the most significant problems related to the tasks you’re testing.&lt;br /&gt;
+	-Finding three participants is less work than finding more.&lt;br /&gt;
+	-Important to to multiple rounds; have a low number makes it easier to do so.&lt;br /&gt;
+	-With only three participants, it’s for colleagues to stop by and observe.&lt;br /&gt;
+-Offer incentives, money. Or use friends and family.&lt;/p&gt;
+
+&lt;p&gt;Ch 6 Notes:&lt;br /&gt;
+-Think of tasks you’d like to watch. Make them into scenarios.&lt;br /&gt;
+-Don’t let user search on the site, or leave the site (to go to google).&lt;br /&gt;
+-Remember to do a pilot run!&lt;/p&gt;
+
+&lt;p&gt;Ch 8 Notes:&lt;br /&gt;
+-STay neutral through the test.&lt;/p&gt;
+
+&lt;p&gt;Ch 9 Notes:&lt;br /&gt;
+-Make it a spectator sport. Get everyone involved.&lt;/p&gt;
+
+&lt;p&gt;Ch 10 Notes:&lt;br /&gt;
+-Debriefing.&lt;br /&gt;
+-Take the worst first. &lt;br /&gt;
+-Focus ruthlessly on only the most serious problems.&lt;/p&gt;
+
+&lt;p&gt;Ch 11 Notes:&lt;br /&gt;
+-When fixing problems, try to do the least you can do. “Make it better for our users right now” works better than “Eliminate the problem”.&lt;br /&gt;
+-If it’s a core issue, there’s something you can do about it now.&lt;br /&gt;
+-A piece of duct tape covering a hole in your pants is better than just having a hole in your pants.&lt;br /&gt;
+-Tweak, don’t redesign or take something away.&lt;/p&gt;
+
+&lt;p&gt;Book on Amazon: &lt;br /&gt;
+&lt;a href=&quot;https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292&quot;&gt;Rocket Surgery Made Easy&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 15 Mar 2015 21:00:00 -0400</pubDate>
+        <link>http://ralphplumley.com/software/2015/03/15/rocket-surgery-notes/</link>
+        <guid isPermaLink="true">http://ralphplumley.com/software/2015/03/15/rocket-surgery-notes/</guid>
         
         
         <category>software</category>
