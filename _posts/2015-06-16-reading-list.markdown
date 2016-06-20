@@ -22,9 +22,6 @@ This my reading list for software design. I'll update it with notes as I read th
 <h3>Software Craftsmanship</h3>
 
 [Code Complete: A Practical Handbook of Software Construction][CodeComplete] - 
-[Notes][CodeComplete Notes]
-
-[CodeComplete Notes]: /software/2015/06/15/code-complete-notes/
 
 <h3>Still on the bookshelf</h3>
 <ul>
