@@ -4,10 +4,10 @@
     <title>PlumDot</title>
     <description>Probably posts about software development. Amongst other things.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Jul 2017 22:01:23 +0900</pubDate>
-    <lastBuildDate>Fri, 07 Jul 2017 22:01:23 +0900</lastBuildDate>
+    <link>http://ralphplumley.com/</link>
+    <atom:link href="http://ralphplumley.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 07 Jul 2017 22:05:36 +0900</pubDate>
+    <lastBuildDate>Fri, 07 Jul 2017 22:05:36 +0900</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
     
       <item>
@@ -31,8 +31,8 @@
 
 </description>
         <pubDate>Tue, 24 May 2016 09:00:00 +0900</pubDate>
-        <link>http://localhost:4000/software/2016/05/24/my-resources/</link>
-        <guid isPermaLink="true">http://localhost:4000/software/2016/05/24/my-resources/</guid>
+        <link>http://ralphplumley.com/software/2016/05/24/my-resources/</link>
+        <guid isPermaLink="true">http://ralphplumley.com/software/2016/05/24/my-resources/</guid>
         
         
         <category>software</category>
@@ -93,8 +93,8 @@ Making organizational shifts: Suggestions on - Outcomes, roles, new skills, cros
 
 </description>
         <pubDate>Sun, 18 Oct 2015 10:00:00 +0900</pubDate>
-        <link>http://localhost:4000/software/2015/10/18/lean-ux/</link>
-        <guid isPermaLink="true">http://localhost:4000/software/2015/10/18/lean-ux/</guid>
+        <link>http://ralphplumley.com/software/2015/10/18/lean-ux/</link>
+        <guid isPermaLink="true">http://ralphplumley.com/software/2015/10/18/lean-ux/</guid>
         
         
         <category>software</category>
@@ -138,8 +138,8 @@ Udacity - Intro to Android - June 2015&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 19 Jun 2015 09:00:00 +0900</pubDate>
-        <link>http://localhost:4000/software/2015/06/19/mooc-list/</link>
-        <guid isPermaLink="true">http://localhost:4000/software/2015/06/19/mooc-list/</guid>
+        <link>http://ralphplumley.com/software/2015/06/19/mooc-list/</link>
+        <guid isPermaLink="true">http://ralphplumley.com/software/2015/06/19/mooc-list/</guid>
         
         
         <category>software</category>
@@ -187,8 +187,8 @@ Udacity - Intro to Android - June 2015&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 16 Jun 2015 10:00:00 +0900</pubDate>
-        <link>http://localhost:4000/software/2015/06/16/reading-list/</link>
-        <guid isPermaLink="true">http://localhost:4000/software/2015/06/16/reading-list/</guid>
+        <link>http://ralphplumley.com/software/2015/06/16/reading-list/</link>
+        <guid isPermaLink="true">http://ralphplumley.com/software/2015/06/16/reading-list/</guid>
         
         
         <category>software</category>
@@ -204,8 +204,8 @@ Answers are up on &lt;a href=&quot;https://github.com/plumdot/CoderByte&quot;&gt
 
 </description>
         <pubDate>Mon, 15 Jun 2015 09:00:00 +0900</pubDate>
-        <link>http://localhost:4000/software/2015/06/15/coderbyte/</link>
-        <guid isPermaLink="true">http://localhost:4000/software/2015/06/15/coderbyte/</guid>
+        <link>http://ralphplumley.com/software/2015/06/15/coderbyte/</link>
+        <guid isPermaLink="true">http://ralphplumley.com/software/2015/06/15/coderbyte/</guid>
         
         
         <category>software</category>
@@ -269,8 +269,8 @@ A lot of engineering and design meetings get lost in deciding what to do. Chapte
 
 </description>
         <pubDate>Mon, 16 Mar 2015 10:00:00 +0900</pubDate>
-        <link>http://localhost:4000/software/2015/03/16/rocket-surgery-notes/</link>
-        <guid isPermaLink="true">http://localhost:4000/software/2015/03/16/rocket-surgery-notes/</guid>
+        <link>http://ralphplumley.com/software/2015/03/16/rocket-surgery-notes/</link>
+        <guid isPermaLink="true">http://ralphplumley.com/software/2015/03/16/rocket-surgery-notes/</guid>
         
         
         <category>software</category>
